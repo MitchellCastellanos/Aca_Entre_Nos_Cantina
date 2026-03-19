@@ -1,0 +1,33 @@
+{
+  "name": "Acá Entre Nos",
+  "short_name": "Acá Entre Nos",
+  "description": "Cantina regional mexicana en Querétaro con eventos, promociones, reservaciones y ambiente nocturno.",
+  "lang": "es-MX",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B0B0D",
+  "theme_color": "#0B0B0D",
+  "icons": [
+    {
+      "src": "icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
